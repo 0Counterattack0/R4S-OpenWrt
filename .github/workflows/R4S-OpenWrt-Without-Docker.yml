@@ -109,6 +109,9 @@ jobs:
         mv ../SEED/config_no_docker.seed .config
         make defconfig
         chmod -R 755 ./
+    - name: SSH connection to Actions
+       uses: P3TERX/debugger-action@main
+       if: env.SSH_ACTIONS == 'true' || contains(github.event.action, 'ssh')
     - name: Make Download
       run: |
         df -h
