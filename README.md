@@ -1,5 +1,6 @@
 ## R4S 基于原生OpenWRT 的固件(AS IS, NO WARRANTY!!!)
 ![R4S-OpenWrt-Without-Docker](https://github.com/QiuSimons/R4S-OpenWrt/workflows/R4S-OpenWrt-Without-Docker/badge.svg)
+### 请勿用于商业用途!!! 请勿用于商业用途!!! 请勿用于商业用途!!! 请勿用于商业用途!!! 请勿用于商业用途!!!
 
 ### 下载地址：
 https://github.com/QiuSimons/R4S-OpenWrt/releases
